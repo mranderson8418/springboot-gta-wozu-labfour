@@ -14,7 +14,7 @@ deploy:
   region: us-east-2
   app: springboot-gta-wozu-labfour
   env: Springboot-gta-wozu-labfour-env-1
-  zip_file: 'target/springboot-gta-wozu-labfour-0.0.1-SHAPSHOT.jar'
+  zip_file: 'target/springboot-gta-wozu-labfour-0.0.1-SNAPSHOT.jar'
   bucket_name: elasticbeanstalk-us-east-2-010526258890
   bucket_path: springboot-gta-wozu-labfour
   on:
